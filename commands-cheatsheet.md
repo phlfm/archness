@@ -65,6 +65,7 @@ Process video file start point `-ss hh:mm:ss` and stop after `-t hh:mm:ss`
 
 
 <br>
+
 # System
 
 `systemd-analyze -help` plot startup time chart and other useful stuff
@@ -72,11 +73,13 @@ Process video file start point `-ss hh:mm:ss` and stop after `-t hh:mm:ss`
 `systemd-run` create single run after timelapse and other event triggered runs.
 
 <br>
+
 # Memory
 
 `free -h` Display amount of free and used memory in the system
 
 <br>
+
 # Disk
 
 `iotop`
@@ -89,6 +92,7 @@ Process video file start point `-ss hh:mm:ss` and stop after `-t hh:mm:ss`
 `gdisk`
 
 <br>
+
 # Processor
 
 `pstree`
@@ -96,6 +100,7 @@ Process video file start point `-ss hh:mm:ss` and stop after `-t hh:mm:ss`
 
 
 <br>
+
 # Devices
 
 ## USB
